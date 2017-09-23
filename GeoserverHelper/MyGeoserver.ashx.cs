@@ -24,7 +24,7 @@ namespace GeoserverHelper
             }
             else if (handleName == "helloworld")
             {
-                context.Response.Write("helloworld");
+                context.Response.Write("helloworld change");
             }
         }
 
