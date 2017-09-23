@@ -4,3 +4,9 @@ c:\users\hyp\documents\visual studio 2017\Projects\GeoserverHelper\GeoserverHelp
 c:\users\hyp\documents\visual studio 2017\Projects\GeoserverHelper\GeoserverHelper\obj\Debug\GeoserverHelper.csprojResolveAssemblyReference.cache
 c:\users\hyp\documents\visual studio 2017\Projects\GeoserverHelper\GeoserverHelper\obj\Debug\GeoserverHelper.dll
 c:\users\hyp\documents\visual studio 2017\Projects\GeoserverHelper\GeoserverHelper\obj\Debug\GeoserverHelper.pdb
+F:\git\GeoserverHelper\GeoserverHelper\bin\GeoserverHelper.dll.config
+F:\git\GeoserverHelper\GeoserverHelper\bin\GeoserverHelper.dll
+F:\git\GeoserverHelper\GeoserverHelper\bin\GeoserverHelper.pdb
+F:\git\GeoserverHelper\GeoserverHelper\obj\Debug\GeoserverHelper.csprojResolveAssemblyReference.cache
+F:\git\GeoserverHelper\GeoserverHelper\obj\Debug\GeoserverHelper.dll
+F:\git\GeoserverHelper\GeoserverHelper\obj\Debug\GeoserverHelper.pdb

@@ -22,6 +22,10 @@ namespace GeoserverHelper
             {
                 submitStyleContent(context);
             }
+            else if (handleName == "helloworld")
+            {
+                context.Response.Write("helloworld");
+            }
         }
 
         public bool IsReusable
